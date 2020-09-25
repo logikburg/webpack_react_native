@@ -1,0 +1,5 @@
+{
+	"name": "app",
+	"displayName": "display_app",
+	"ENV": "DEBUG"
+}
